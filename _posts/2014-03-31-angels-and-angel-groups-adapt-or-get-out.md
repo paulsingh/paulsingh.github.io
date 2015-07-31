@@ -2,7 +2,7 @@
 title: Angels and Angel Groups: Adapt (or Get Out)
 author: Paul Singh
 layout: post
-permalink: blog/angels-and-angel-groups-adapt-or-get-out
+permalink: blog/angels-and-angel-groups-adapt-or-get-out/
 categories:
   - Venture Capital
 ---
