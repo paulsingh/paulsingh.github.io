@@ -1,5 +1,5 @@
 ---
-title: 'Angels and Angel Groups: Adapt (or Get Out)'
+title: 'Angels and Angel Groups&#58; Adapt (or Get Out)'
 author: Paul Singh
 layout: post
 permalink: blog/angels-and-angel-groups-adapt-or-get-out/
