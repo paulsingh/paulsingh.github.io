@@ -12,6 +12,8 @@ Capital, deal flow and an investor's judgement are all table stakes -- they're i
 
 Some suggestions:
 
+<!--more-->
+
 * **Angels should consider a "fast follower" strategy.** Filter for companies on AngelList that have recently confirmed an investment from an early stage VC and work hard to get to know those teams ASAP. (Pro tip: consider building a LP-like portfolio via the Syndicates that are available.)
 * **Angel groups should consider an "independent consensus" approach.** Have your selection committee meet the founders and hear the pitches separately. Immediately after the session, write down a yes/no decision and include 1-2 sentences explaining the choice. Once everyone on the committee has done this, everyone shares their decision slips. If it's a unanimous "yes" or "no" decision, no additional debate is needed. If it's in between, your debate should be around the sentences on the decision slips which, hopefully, aren't influenced by internal group politics or groupthink.
 * **Both types of investors should build a portfolio that includes some deals in other cities.** Counterintuitively, there's a growing body of research that suggests that investing in companies 100+ miles from you may be a safer bet than investing only in local companies. (The early research suggests that investing in companies outside your immediate geography might raise the bar for traction and trust. Companies that make it past that bar may ultimately be better investments anyway.)

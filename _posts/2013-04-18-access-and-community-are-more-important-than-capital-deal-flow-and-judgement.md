@@ -2,7 +2,7 @@
 title: Access and Community are more important than Capital, Deal Flow and Judgement
 author: Paul Singh
 layout: post
-permalink: /blog/access-and-community-are-more-important-than-capital-deal-flow-and-judgement/
+permalink: blog/access-and-community-are-more-important-than-capital-deal-flow-and-judgement/
 categories:
   - Venture Capital
 ---
