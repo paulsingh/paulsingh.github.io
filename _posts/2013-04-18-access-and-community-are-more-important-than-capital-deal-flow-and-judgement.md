@@ -6,6 +6,7 @@ permalink: blog/access-and-community-are-more-important-than-capital-deal-flow-a
 categories:
   - Venture Capital
 ---
+
 Investing in companies, especially early stage, has historically been about capital, deal flow and judgement. If you had the money, you would get the deal flow and then you could take your time picking your favorites.
 
 Capital, deal flow and judgement are *table stakes* today. You need those three things to get into investing but it&#8217;s simply not enough to make any money. **Investors today need to be thinking about access and community.**

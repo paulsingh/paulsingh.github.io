@@ -6,6 +6,7 @@ permalink: blog/angels-and-angel-groups-adapt-or-get-out/
 categories:
   - Venture Capital
 ---
+
 If they want to make money in this asset class, anyway. I spoke at the ACA Summit in DC last week and, perhaps unsurprisingly, found that the vast majority of the investors in attendance were being told the same stuff we've been hearing for years: focus on terms, look for deep intellectual property and be deeply involved in the companies. It's a shame, because it suggests that the majority of financial returns come from the investors themselves.
 
 Capital, deal flow and an investor's judgement are all table stakes -- they're important to have but aren't enough to build a portfolio that will produce returns. **Access into the best deals is what should be on an investor's mind because financial returns come from the founders and their teams.**
