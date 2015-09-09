@@ -78,10 +78,10 @@ permalink: /public-speaking-for-founders-and-entreprenuers/
 <form action="//resultsjunkies.us11.list-manage.com/subscribe/post?u=2cbc77866d90f02b5954bffc9&amp;id=c78c0b7277" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
 	
-	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="type your email address" required>
+	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="type your email" required>
     <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
     <div style="position: absolute; left: -5000px;"><input type="text" name="b_2cbc77866d90f02b5954bffc9_c78c0b7277" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Learn to Speak Publicly" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    <div class="clear"><input type="submit" value="Let me in!" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
     </div>
 </form>
 </div>
@@ -130,10 +130,10 @@ Because there is a community component to this course, enrollment closes at 11:5
 <form action="//resultsjunkies.us11.list-manage.com/subscribe/post?u=2cbc77866d90f02b5954bffc9&amp;id=c78c0b7277" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
 	
-	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="type your email address" required>
+	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="type your email" required>
     <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
     <div style="position: absolute; left: -5000px;"><input type="text" name="b_2cbc77866d90f02b5954bffc9_c78c0b7277" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Learn to Speak Publicly" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    <div class="clear"><input type="submit" value="Let me in!" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
     </div>
 </form>
 </div>
