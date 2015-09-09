@@ -103,7 +103,7 @@ Five years ago, I was a new (and young) VC with no brand, no history and no publ
 
 Since then, I’ve spoken to small audiences in rural Mexico, large multi-thousand person audiences in India and even did a commencement speech for a major U.S. university. It turns out, **public speaking is a learned skill and one of the lowest-effort-highest-ROI skills anyone can have**. Anyone can do it and, frankly, I wish I started 10 years ago.
 
-I wantto share what I've learned and spare you all the embarrassing mistakes I’ve made through the years so you don't have to spend five years figuring it out yourself.
+I want to share what I've learned and spare you all the embarrassing mistakes I’ve made through the years so you don't have to spend five years figuring it out yourself.
 
 #Advice on public speaking just isn't useful.
 People will tell you vague things like "just do it" or "imagine the audience is naked" but none of that is helpful. After all, the goal isn't to get on stage -- it's to share your knowledge, educate (and entertain) an audience and build your own credibility. 
