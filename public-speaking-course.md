@@ -1,10 +1,11 @@
 ---
 layout: page-no-title
 title: Public Speaking Course
-permalink: /public-speaking-for-founders-and-entreprenuers/
+permalink: /public-speaking-for-founders-and-entrepreneurs/
+redirect_from: /public-speaking-for-founders-and-entreprenuers/
 ---
 
-<h1 align="center"><strong>A (free) email course on public speaking<br> for founders and entreprenuers</strong></h1>
+<h1 align="center"><strong>A (free) email course on public speaking<br> for founders and entrepreneurs</strong></h1>
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">

@@ -10,3 +10,6 @@ github_username:  paulsingh
 
 # Build settings
 markdown: kramdown
+
+gems:
+  - jekyll-redirect-from
