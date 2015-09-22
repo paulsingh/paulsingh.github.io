@@ -89,9 +89,6 @@ redirect_from: /public-speaking-for-founders-and-entreprenuers/
 
 <!--End mc_embed_signup-->
 
-<h1 align="center"><strong>Enrollment deadline is Monday, September 21, 2015.</strong></h1>
-<br>
-
 "I spoke on stage once. It was awful and I won't do it again."
 
 "I know I should start speaking publicly, I just don't know where to start."
@@ -121,9 +118,6 @@ This is a free 5-week course, delivered via email every Tuesday, that teaches yo
 * Part 4: Learning how to tweak and iterate your talks
 * Part 5: Booking yourself solid (and how to get organizers to pay for you)
 
-#Community
-Because there is a community component to this course, enrollment closes at 11:59p EST (GMT-4) on Monday, September 21, 2015. I may never offer this course again, so don't miss your chance to enroll.
-
 <h1 align="center"><strong>Sign up now.</strong></h1>
 
 <!-- Begin MailChimp Signup Form -->
@@ -139,5 +133,3 @@ Because there is a community component to this course, enrollment closes at 11:5
 </form>
 </div>
 <!--End mc_embed_signup-->
-
-<h1 align="center"><strong>Enrollment deadline is Monday, September 21, 2015.</strong></h1>
