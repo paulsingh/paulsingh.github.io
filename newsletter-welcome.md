@@ -7,4 +7,4 @@ permalink: /newsletter-welcome/
 
 <p align="center"><strong>(PLEASE RETWEET)</strong></p>
 
-<blockquote align="center" class="twitter-tweet" lang="en"><p lang="en" dir="ltr">The purpose of all VC meetings, your (lack of) soft skills and learning how to speak publicly <a href="http://t.co/ITaRLzFxSF">http://t.co/ITaRLzFxSF</a></p>&mdash; Paul Singh (@paulsingh) <a href="https://twitter.com/paulsingh/status/642379693371576320">September 11, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Every Friday, I send out a free email for busy people who care about growing startups and small businesses. Get it: <a href="https://t.co/xPKGx1KbKQ">https://t.co/xPKGx1KbKQ</a></p>&mdash; Paul Singh (@paulsingh) <a href="https://twitter.com/paulsingh/status/659905616668938240">October 30, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
