@@ -95,7 +95,7 @@ permalink: /your-first-100/
 
 "I know I should start speaking to customers, I just don't know where to start."
 
-On a crowded internet, the best merketing usually wins. In a crowded world, the best marketers usually win. I want to help you win.
+On a crowded internet, the best marketing usually wins. In a crowded world, the best marketers usually win. I want to help you win.
 
 #Advice on starting up a business just isn't useful.
 People will tell you vague things like "just do it" or "solve your own problem" but none of that is helpful. After all, the goal isn't to build a product -- it's to build a business.
