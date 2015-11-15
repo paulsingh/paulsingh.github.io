@@ -1,6 +1,6 @@
 ---
 layout: page-no-title
-permalink: /public-speaking-course-welcome/
+permalink: /your-first-100-welcome/
 ---
 
 <h1 align="center"><strong>YOU'RE CONFIRMED</strong></h1>
