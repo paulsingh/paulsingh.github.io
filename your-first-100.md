@@ -2,6 +2,7 @@
 layout: page-no-title
 title: Your First 100
 permalink: /your-first-100/
+exclude: true
 ---
 
 <h1 align="center"><strong>A (free) session on acquiring your first<br> 100 prospects and customers</strong></h1>
