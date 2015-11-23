@@ -2,6 +2,7 @@
 layout: page-no-title
 title: Community
 permalink: /community/
+exclude: true
 ---
 
 <h1 align="center"><strong>#resultsjunkies</strong></h1>
