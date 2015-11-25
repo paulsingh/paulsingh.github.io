@@ -14,7 +14,7 @@ permalink: /about/
 
 **What I Do**
 
-TL; DR: **Say hi, I'm (usually) nice.**
+TL; DR: I'm an entrepreneur, speaker and investor. Previously: Managing Director @1776, Founder @disruptioncorp (acq by @1776), Partner @500Startups, EIR at USCIS / DHS. **Say hi, I'm (usually) nice.**
 
 ### **Projects**
 
