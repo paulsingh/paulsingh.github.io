@@ -3,6 +3,7 @@ layout: page-no-title
 title: Public Speaking Course
 permalink: /public-speaking-for-founders-and-entrepreneurs/
 redirect_from: /public-speaking-for-founders-and-entreprenuers/
+exclude: true
 ---
 
 <h1 align="center"><strong>A (free) email course on public speaking<br> for founders and entrepreneurs</strong></h1>
