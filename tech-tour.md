@@ -17,6 +17,8 @@ permalink: /tech-tour/
 
 <p >Confirmed 2016 stops (so far):</p>
 
+<h1 align="center"><strong>Durham, NC</strong> (January 8)</h1>
+
 <h1 align="center"><strong>Shreveport, LA</strong> (March 4-March 10)</h1>
 
 <h1 align="center"><strong>Tulsa, OK</strong> (March 27-April 2)</h1>
