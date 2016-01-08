@@ -17,7 +17,8 @@ permalink: /tech-tour/
 
 <p >Confirmed 2016 stops (so far):</p>
 
-<h1 align="center"><strong>Durham, NC</strong> (January 8) <img src="/assets/2016/01/rjtt_logo_small.png"></h1>
+<h1 align="center" margin-bottom="5px"><strong>Durham, NC</strong> (January 8) <img src="/assets/2016/01/rjtt_logo_small.png"></h1>
+<p align="center"><a href="https://nvite.com/rjtt/b01e">Durham Tech Happy Hour</a></p>
 
 <h1 align="center"><strong>Tallahassee, FL</strong> (January 11-12)</h1>
 
