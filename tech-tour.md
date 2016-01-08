@@ -24,6 +24,7 @@ permalink: /tech-tour/
 <p align="center"><a href="http://sched.co/5lIZ">Keynote: The Business of Tech Startups</a></p>
 
 <h1 align="center"><strong>Vancouver, BC</strong> (January 18-19)</h1>
+<p align="center"><a href="https://www.picatic.com/event14521043537804">Fireside Chat, Scotch Tasting & Startups</a></p>
 
 <h1 align="center"><strong>Kelowna, BC</strong> (February 2-5)</h1>
 
