@@ -17,7 +17,7 @@ permalink: /tech-tour/
 
 <p >Confirmed 2016 stops (so far):</p>
 
-<h1 align="center"><strong>Durham, NC</strong> (January 8)</h1>
+<h1 align="center"><strong>Durham, NC</strong> (January 8) <img src="/assets/2016/01/rjtt_logo_small.png"></h1>
 
 <h1 align="center"><strong>Tallahassee, FL</strong> (January 11-12)</h1>
 
@@ -25,25 +25,25 @@ permalink: /tech-tour/
 
 <h1 align="center"><strong>Kelowna, BC</strong> (February 2-5)</h1>
 
-<h1 align="center"><strong>Shreveport, LA</strong> (March 4-10)</h1>
+<h1 align="center"><strong>Shreveport, LA</strong> (March 4-10) <img src="/assets/2016/01/rjtt_logo_small.png"></h1>
 
 <h1 align="center"><strong>Vancouver, BC</strong> (March 22-23)</h1>
 
-<h1 align="center"><strong>Tulsa, OK</strong> (March 27-April 2)</h1>
+<h1 align="center"><strong>Tulsa, OK</strong> (March 27-April 2) <img src="/assets/2016/01/rjtt_logo_small.png"></h1>
 
-<h1 align="center"><strong>Los Alamos, NM</strong> (April 3-9)</h1>
+<h1 align="center"><strong>Los Alamos, NM</strong> (April 3-9) <img src="/assets/2016/01/rjtt_logo_small.png"></h1>
 
-<h1 align="center"><strong>Las Vegas, NV</strong> (April 17-23)</h1>
+<h1 align="center"><strong>Las Vegas, NV</strong> (April 17-23) <img src="/assets/2016/01/rjtt_logo_small.png"></h1>
 
-<h1 align="center"><strong>Waterloo, ON</strong> (May 22-28)</h1>
+<h1 align="center"><strong>Waterloo, ON</strong> (May 22-28) <img src="/assets/2016/01/rjtt_logo_small.png"></h1>
 
-<h1 align="center"><strong>Helena, MT</strong> (June 26-July 2)</h1>
+<h1 align="center"><strong>Helena, MT</strong> (June 26-July 2) <img src="/assets/2016/01/rjtt_logo_small.png"></h1>
 
-<h1 align="center"><strong>Pittsburgh, PA</strong> (July / August TBD)</h1>
+<h1 align="center"><strong>Pittsburgh, PA</strong> (July / August TBD) <img src="/assets/2016/01/rjtt_logo_small.png"></h1>
 
-<h1 align="center"><strong>Syracuse, NY</strong> (August 14-20)</h1>
+<h1 align="center"><strong>Syracuse, NY</strong> (August 14-20) <img src="/assets/2016/01/rjtt_logo_small.png"></h1>
 
-<h1 align="center"><strong>Columbus, OH</strong> (August / September TBD)</h1>
+<h1 align="center"><strong>Columbus, OH</strong> (August / September TBD) <img src="/assets/2016/01/rjtt_logo_small.png"></h1>
 
 <br>
 <p align="center"><strong>Want to get your city on the tour? <a href="https://docs.google.com/a/resultsjunkies.com/forms/d/1EJSeTDTLN_SmPEQ1olljl6Oi-OrMoFgvQTVtgopbaiA/viewform">Get in touch ASAP</a> and let's lock it in.</strong><br> If you're interested in sponsoring the tour, <a href="mailto:paul@resultsjunkies.com">get in touch</a> -- I'd love to speak with you.</p>
