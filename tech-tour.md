@@ -21,6 +21,8 @@ permalink: /tech-tour/
 
 <h1 align="center"><strong>Tallahassee, FL</strong> (January 11-12)</h1>
 
+<h1 align="center"><strong>Vancouver, BC</strong> (January 18-19)</h1>
+
 <h1 align="center"><strong>Kelowna, BC</strong> (February 2-5)</h1>
 
 <h1 align="center"><strong>Shreveport, LA</strong> (March 4-10)</h1>
