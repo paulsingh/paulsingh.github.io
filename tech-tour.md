@@ -21,6 +21,7 @@ permalink: /tech-tour/
 <p align="center"><a href="https://nvite.com/rjtt/b01e">Durham Tech Happy Hour</a></p>
 
 <h1 align="center"><strong>Tallahassee, FL</strong> (January 11-12)</h1>
+<p align="center"><a href="http://sched.co/5lIZ">Keynote: The Business of Tech Startups</a></p>
 
 <h1 align="center"><strong>Vancouver, BC</strong> (January 18-19)</h1>
 
