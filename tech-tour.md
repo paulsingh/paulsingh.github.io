@@ -19,21 +19,27 @@ permalink: /tech-tour/
 
 <h1 align="center"><strong>Durham, NC</strong> (January 8)</h1>
 
-<h1 align="center"><strong>Shreveport, LA</strong> (March 4-March 10)</h1>
+<h1 align="center"><strong>Tallahassee, FL</strong> (January 11-12)</h1>
+
+<h1 align="center"><strong>Kelowna, BC</strong> (February 2-5)</h1>
+
+<h1 align="center"><strong>Shreveport, LA</strong> (March 4-10)</h1>
+
+<h1 align="center"><strong>Vancouver, BC</strong> (March 22-23)</h1>
 
 <h1 align="center"><strong>Tulsa, OK</strong> (March 27-April 2)</h1>
 
-<h1 align="center"><strong>Los Alamos, NM</strong> (April 3-April 9)</h1>
+<h1 align="center"><strong>Los Alamos, NM</strong> (April 3-9)</h1>
 
-<h1 align="center"><strong>Las Vegas, NV</strong> (April 17-April 23)</h1>
+<h1 align="center"><strong>Las Vegas, NV</strong> (April 17-23)</h1>
 
-<h1 align="center"><strong>Waterloo, ON</strong> (May 22-May 28)</h1>
+<h1 align="center"><strong>Waterloo, ON</strong> (May 22-28)</h1>
 
 <h1 align="center"><strong>Helena, MT</strong> (June 26-July 2)</h1>
 
 <h1 align="center"><strong>Pittsburgh, PA</strong> (July / August TBD)</h1>
 
-<h1 align="center"><strong>Syracuse, NY</strong> (August 14-August 20)</h1>
+<h1 align="center"><strong>Syracuse, NY</strong> (August 14-20)</h1>
 
 <h1 align="center"><strong>Columbus, OH</strong> (August / September TBD)</h1>
 
