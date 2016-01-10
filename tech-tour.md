@@ -40,6 +40,8 @@ permalink: /tech-tour/
 
 <h1 align="center"><strong>Las Vegas, NV</strong> (April 17-23) <img src="/assets/2016/01/rjtt_logo_small.png"></h1>
 
+<h1 align="center"><strong>Lincoln, NE</strong> (May 1-7) <img src="/assets/2016/01/rjtt_logo_small.png"></h1>
+
 <h1 align="center"><strong>Waterloo, ON</strong> (May 22-28) <img src="/assets/2016/01/rjtt_logo_small.png"></h1>
 
 <h1 align="center"><strong>Helena, MT</strong> (June 26-July 2) <img src="/assets/2016/01/rjtt_logo_small.png"></h1>
