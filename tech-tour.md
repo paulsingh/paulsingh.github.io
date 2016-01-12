@@ -30,7 +30,7 @@ permalink: /tech-tour/
 
 <h1 align="center"><strong>Shreveport, LA</strong> (March 4-10) <img src="/assets/2016/01/rjtt_logo_small.png"></h1>
 
-<h1 align="center"><strong>Pittsburgh, PA</strong> (March TBD) <img src="/assets/2016/01/rjtt_logo_small.png"></h1>
+<h1 align="center"><strong>Pittsburgh, PA</strong> (March 13-19) <img src="/assets/2016/01/rjtt_logo_small.png"></h1>
 
 <h1 align="center"><strong>Vancouver, BC</strong> (March 22-23)</h1>
 
