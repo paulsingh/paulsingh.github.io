@@ -48,7 +48,7 @@ permalink: /tech-tour/
 
 <h1 align="center"><strong>Pittsburgh, PA</strong> (July / August TBD) <img src="/assets/2016/01/rjtt_logo_small.png"></h1>
 
-<h1 align="center"><strong>Syracuse, NY</strong> (August 14-20) <img src="/assets/2016/01/rjtt_logo_small.png"></h1>
+<h1 align="center"><strong>Upstate New York (Syracuse & Saratoga Springs)</strong> (August 14-20) <img src="/assets/2016/01/rjtt_logo_small.png"></h1>
 
 <h1 align="center"><strong>Columbus, OH</strong> (August / September TBD) <img src="/assets/2016/01/rjtt_logo_small.png"></h1>
 
