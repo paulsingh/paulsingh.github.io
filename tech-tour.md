@@ -1,7 +1,9 @@
 ---
-layout: page
+layout: external
 title: 2016 North American Tech Tour
 permalink: /tech-tour/
+
+external_url: https://nvite.com/community/techtour
 ---
 
 <p>Over the past 5 years, I’ve flown 500,000 miles, raised tens of millions of dollars for my venture funds and invested in hundreds of companies around the world. I know startups and small businesses better than anyone else. And they know me.</p>
