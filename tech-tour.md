@@ -1,6 +1,6 @@
 ---
 layout: external
-title: 2016 North American Tech Tour
+title: 2016 Tech Tour
 permalink: /tech-tour/
 
 external_url: https://nvite.com/community/techtour
