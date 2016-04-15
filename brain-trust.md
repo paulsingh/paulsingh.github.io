@@ -22,7 +22,7 @@ To start, I'll keep it simple:
 
 <p>If you're ready to pull the trigger, fill out the form below and you'll receive next steps via email immediately. <b>It's $29/month -- no bullshit, no spam and you're free to cancel anytime.</b></p>
 
-<h2 align="center"><strong><a href="https://resultsjunkies.typeform.com/to/NgENmL">Join now</a></strong> and connect with smart founders and investors that manage billions of dollars of capital.</h2>
+<h2 align="center"><strong><a href="https://resultsjunkies.wufoo.com/forms/knh0d3b1p1e2nc/">Join now</a></strong> and connect with smart founders and investors that manage billions of dollars of capital.</h2>
 
 
 
