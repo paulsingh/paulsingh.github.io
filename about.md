@@ -8,15 +8,13 @@ permalink: /about/
 
   * Location(s): Washington, DC and 35,000 feet
   * Email: paul @ resultsjunkies.com
-  * Add me on [Twitter](http://twitter.com/paulsingh), [AngelList](http://angel.co/paulsingh), [Facebook](http://facebook.com/paulsingh) and [LinkedIn](http://www.linkedin.com/in/paulsingh)
+  * Add me on [Twitter](http://twitter.com/paulsingh), [AngelList](http://angel.co/paulsingh), [Facebook](http://facebook.com/paulsingh), [LinkedIn](http://www.linkedin.com/in/paulsingh), [Instagram](http://instagram.com/resultsjunkies) and [Snapchat](http://www.snapchat.com/add/resultsjunkies).
 
 
 
 **What I Do**
 
-TL; DR: I'm an entrepreneur, speaker and investor. Previously: Managing Director @1776, Founder @disruptioncorp (acq by @1776), Partner @500Startups, EIR at USCIS / DHS. **Say hi, I'm (usually) nice.** (If you're looking for headshots, <a href="https://docs.google.com/document/d/1UstcfltnzawY_8o4AuSeF_ZDib4hpTAjjoEFsQ7pbcs/edit?usp=sharing" target="_blank">find them here</a>.) 
-
-
+TL;DR: I'm a dad, entrepreneur, speaker, investor and Airstreamer. Previously: Managing Director @1776, Founder @disruptioncorp (acq by @1776), Partner @500Startups, EIR at USCIS / DHS. **Say hi, I'm (usually) nice.** (If you're looking for headshots, <a href="https://docs.google.com/document/d/1UstcfltnzawY_8o4AuSeF_ZDib4hpTAjjoEFsQ7pbcs/edit?usp=sharing" target="_blank">find them here</a>.)  USCIS / DHS.
 
 ### **Projects**
 
