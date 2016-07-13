@@ -2,6 +2,7 @@
 layout: page-no-title
 title: Brain Trust
 permalink: /brain-trust/
+exclude: true
 ---
 
 <h1 align="center"><strong>Results Junkies Brain Trust</strong></h1>
