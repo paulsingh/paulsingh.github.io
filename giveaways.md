@@ -1,6 +1,6 @@
 ---
 layout: external
-title: Results Junkies Giveaways
+title: Giveaways
 permalink: /giveaways/
 
 external_url: http://contest.resultsjunkies.com/giveaways/august-phantom-4/
